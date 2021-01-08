@@ -1,1 +1,1 @@
-My favourite language in C++.
+My favourite language in C++, because it is simple and efficient.
