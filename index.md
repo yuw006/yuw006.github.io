@@ -11,7 +11,7 @@ My name is Yueqi Wang, and I am a Computer Engineering major at UCSD. Here is my
 - Drawing
 - Binging Shows
 
-![_A painting I drew](drawing.png)
+![_A Painting I Drew_](IMG_6963.jpg)
 
 ![_A Movie I like - Coraline_](Coraline.jpg)
 
