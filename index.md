@@ -7,11 +7,14 @@ My name is Yueqi Wang, and I am a Computer Engineering major at UCSD. Here is my
 - Java
 - Python
 
-### Schedule
+### Courses
 - [ ] CSE141L
 - [ ] CSE141
 - [ ] CSE110
 - [ ] CSE167
+- [x] CSE101
+- [x] CSE100
+- [x] CSE150B
 
 ### Hobbies
 - Drawing (*I like water color in particular*)
